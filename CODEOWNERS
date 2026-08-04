@@ -1,0 +1,6 @@
+# Every file in this repository is owned by the maintainer.
+* @ayushgupta07xx
+
+# Areas that must not change casually.
+/LICENSE                   @ayushgupta07xx
+/.github/                  @ayushgupta07xx
